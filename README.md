@@ -1,8 +1,10 @@
-### Olá, pessoal! :wave:
+### Olá, pessoal! :wave: Bem vindos ao meu perfil
 
-- Atualmente trabalho como fullstack com Angular e Node.js
-- Estudo muito React e tô sempre fazendo cursos por aí
-- Amo gatos, séries, animes e adoro ter uma conversa intelectual sobre universo, ciência e crise existencial mas não dispenso conversar sobre novelas e bbb de vez em quando
+- :sparkles: Sou Full Stack JavaScript 
+- :speech_balloon: Trabalho com Angular e Node.js e gosto de estudar React
+- :running: Valorizo código limpo, performático e escalável 
+- :heartpulse: Amo gatos, séries, animes e jogos indies 
+- :boom: Converso sobre universo, ciência e crises existenciais mas não dispenso conversar sobre novelas e bbb 
 
 ---
 
@@ -12,3 +14,5 @@
 - [Twitter](https://twitter.com/nathc_oliveira)
 - [Instagram](https://www.instagram.com/nathaliacgoliveira/)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nathaliacristina20&show_icons=true&theme=radical)
+  
