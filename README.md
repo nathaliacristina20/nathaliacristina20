@@ -1,4 +1,6 @@
-### Olá, pessoal! :wave: Bem vindos ao meu perfil
+## Olá, pessoal! :wave: Bem vindos ao meu perfil
+
+![](https://komarev.com/ghpvc/?username=nathaliacristina20)
 
 - :sparkles: Sou Full Stack JavaScript 
 - :speech_balloon: Trabalho com Angular e Node.js e gosto de estudar React
@@ -8,11 +10,9 @@
 
 ---
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nathaliacristina20&show_icons=true&theme=radical)
+
 #### Me encontre por aí! :beer:
 
-- [LinkedIn](https://www.linkedin.com/in/nathaliagomesoliveira/)
-- [Twitter](https://twitter.com/nathc_oliveira)
-- [Instagram](https://www.instagram.com/nathaliacgoliveira/)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nathaliacristina20&show_icons=true&theme=radical)
-  
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/nathaliaaoli_)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nathaliagomesoliveira/)
