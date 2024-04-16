@@ -5,8 +5,7 @@
 - :sparkles: Sou Full Stack JavaScript 
 - :speech_balloon: Trabalho com Angular e Node.js e gosto de estudar React
 - :running: Valorizo código limpo, performático e escalável 
-- :heartpulse: Amo gatos, séries, animes e jogos indies 
-- :boom: Converso sobre universo, ciência e crises existenciais mas não dispenso conversar sobre novelas e bbb 
+- :heartpulse: Amo gatos, séries, animes e jogos 
 
 <p>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
