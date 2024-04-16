@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=nathaliacristina20)
 
 - :sparkles: Sou Full Stack JavaScript 
-- :speech_balloon: Trabalho com Angular e Node.js e gosto de estudar React
+- :speech_balloon: Atualmente trabalho com Angular 17
 - :running: Valorizo código limpo, performático e escalável 
 - :heartpulse: Amo gatos, séries, animes e jogos 
 
